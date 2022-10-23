@@ -1,0 +1,22 @@
+currently using:  cpu
+Epoch ID: 1, 'the best training loss': 21235.927734375
+Best loss value per batch across validation dataset is 19106.123046875
+Epoch ID: 2, 'the best training loss': 16940.5234375
+Best loss value per batch across validation dataset is 14634.525390625
+Epoch ID: 3, 'the best training loss': 10910.474609375
+Best loss value per batch across validation dataset is 5733.2138671875
+Epoch ID: 4, 'the best training loss': 390.1218566894531
+Best loss value per batch across validation dataset is 221.19049072265625
+Epoch ID: 5, 'the best training loss': 348.40655517578125
+Best loss value per batch across validation dataset is 265.86474609375
+Epoch ID: 6, 'the best training loss': 348.40655517578125
+Best loss value per batch across validation dataset is 363.2734069824219
+Epoch ID: 7, 'the best training loss': 348.40655517578125
+Best loss value per batch across validation dataset is 735.8125610351562
+Best loss value per batch across test dataset is 674.5357666015625
+input: tensor([[ -1.0000,  -1.0000,   4.0000, 182.0000,   4.0000,  14.7441]])
+ground truth: tensor([[  3.0000, 205.0000,   3.0000,   9.7172]])
+prediction: tensor([[[  4.2496, 207.1992,   9.9049,  24.6589]]], grad_fn=<AddBackward0>)
+input: tensor([[ -1.0000,  -1.0000,   3.0000, 205.0000,   3.0000,   9.7172]])
+ground truth: tensor([[  4.0000, 205.0000,   3.0000,  11.3373]])
+prediction: tensor([[[  4.2496, 207.1992,   9.9049,  24.6589]]], grad_fn=<AddBackward0>)
